@@ -31,7 +31,7 @@ $data- is array with proxys
 Usage exemple
 -------------
 
-```
+```php
 <?php
 namespace app\controllers;
 
