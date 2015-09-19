@@ -22,9 +22,12 @@ to the require section of your `composer.json` file.
 
 Usage
 -----
+
+```
 use pdllbq\phcparser\Parser;
 
 $data=Parser::getProxy();
+```
 
 $data- is array with proxys
 
