@@ -1,5 +1,5 @@
 <?php
-namespace vendor\pdllbq\proxylistHidemyassComParser;
+namespace pdllbq\phcparser;
 
 use Yii;
 
