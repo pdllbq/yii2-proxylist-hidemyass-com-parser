@@ -1,9 +1,9 @@
 {
-    "name": "pdllbq/yii2-proxylistHidemyassComParser",
+    "name": "pdllbq/yii2-proxylist-hidemyass-com-parser",
 
     "type": "yii2-extension",
 
-    "description": "Parse proxy from http://proxylist.hidemyass.com/",
+    "description": "Parse proxy from http://proxylist.hidemyass.com/ ...",
     "keywords": ["parse proxy"],
     "authors": [
         {
