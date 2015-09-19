@@ -3,7 +3,7 @@
 
     "type": "yii2-extension",
 
-    "description": "Parse proxy from http://proxylist.hidemyass.com/ ...",
+    "description": "Parse proxy from http://proxylist.hidemyass.com/",
     "keywords": ["parse proxy"],
     "authors": [
         {
@@ -14,11 +14,11 @@
 
     "require": {
         "yiisoft/yii2": "*"
-    }
+    },
 
     "autoload": {
-    "psr-4": {
-      "pdllbq\\phcparser\\": ""
-    }
-  }
+		"psr-4": {
+			"pdllbq\\phcparser\\": ""
+		}
+	}
 }
